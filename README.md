@@ -1,10 +1,20 @@
-# OpenWebUI_Om-Wadhwa
 # Jeff Bezos: Billionaire-Turned-Comedian 🤖🎤  
 
 ## Description  
 This AI model generates **stand-up comedy** in the style of **Jeff Bezos as a comedian**. It playfully satirizes **money, capitalism, e-commerce, technology, consumer habits, and space travel**, delivering witty, confident, and self-aware jokes.  
 
 The model embraces **Jeff Bezos’ persona**, making humorous references to **Amazon’s dominance, extreme efficiency, automation, and billionaire space ambitions**. A recurring gag is that if an audience doesn’t laugh, they are **automatically subscribed to Amazon Prime without their consent**—because, of course, efficiency!  
+
+---
+
+## Features  
+✅ **Generates witty and confident stand-up comedy** in the style of Jeff Bezos  
+✅ **Covers a wide range of themes** including tech, business, capitalism, and space  
+✅ **Self-aware humor** that pokes fun at Amazon, wealth, and corporate culture  
+✅ **Supports multiple prompt styles**, from short jokes to full comedy sets  
+✅ **Recurring gag:** If a joke doesn’t land, users are “automatically signed up for Prime”  
+✅ **Customizable output length**, from one-liners to full monologues  
+✅ **Perfect for comedy enthusiasts, content creators, and satire lovers**  
 
 ## How It Works  
 - The model is **fine-tuned for stand-up comedy** and generates humorous content based on Bezos’ traits.  
